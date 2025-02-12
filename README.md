@@ -17,7 +17,7 @@ This project simplifies data handling for Blender users and provides a seamless 
 ---
 
 ### **How to get Started?**
-
+here are simple steps :
 #### **1. Clone the GitHub repository**
 ```bash
 git clone https://github.com/PramodSeeram/BlenderPlugin-with-REST-API-Integration.git
