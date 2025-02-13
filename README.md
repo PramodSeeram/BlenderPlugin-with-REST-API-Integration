@@ -58,3 +58,9 @@ python inventory_ui.py
 
 ### **Repository Link**
 - [BlenderPlugin-with-REST-API-Integration GitHub](https://github.com/PramodSeeram/BlenderPlugin-with-REST-API-Integration.git)
+
+- ### **This is a small demo**
+
+https://github.com/user-attachments/assets/08952bee-58be-4dfe-80a5-eed06988bed0
+
+
